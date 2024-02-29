@@ -3,7 +3,7 @@
     <h1>New user Register for DevOps Learning xD</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
+    <automate with ansible and jenkins>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
